@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: lbell, driftless1
+Contributors: driftless1, driftless
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BTMZ87DJDYBPS
 Tags: EXIF, date, photoblog, custom, post, bulk, 
 Requires at least: 3.0
